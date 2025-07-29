@@ -1,2 +1,11 @@
-# Cohort_2025_WebMaps
-This repository contains the interactive web maps from the 2025 cohort projects completed by the Mapping Freedom REU. 
+# Mapping Freedom Research Experience for Undergraduates Interactive Web Maps (2025 Cohort)
+
+Project Goals:
+
+Mapping Freedom aims to bring together individuals from diverse backgrounds—-especially those underrepresented in science, engineering, and digital humanities—with the goal of equipping them with the skills to make significant contributions to collaborative research, in addition to learning how to work effectively as an individual and part of this REU community. These participants include African Americans, women, first-generation college students, other minorities, and military veterans. Throughout the eight-weeks, participants also engaged in research on a topic of their choosing that is derived from a dataset of primary sources related to the topics of emancipation, which are found in the “Civil War & Reconstruction Governors of Mississippi” project. As participants learn digital humanities, geography, and computer science skills, they were be tasked with creating visualizations of their research—such as maps—alongside writing a paper draft of their research. This repository contains the final interactive web maps from the 2025 cohort projects completed by the Mapping Freedom REU.
+
+Each of the interactive web maps was accompanied by the students' personal blog and academic paper. The maps were created using QGIS and a combination of Census data and data derived from the CWRGM letter projects. They reflect topics ranging from education and requests for aid to desertion, conscription, and homelessness.  Learn more about Mississippi during the Civil War and Reconstruction Era by purusing through the maps found here. 
+
+Overall, the Mapping Freedom research experience hopes to increase students' familiarity with geography, digital humanities, and computer science topics and research, including commonly used methods, software, and analytical tools. Ultimately, this REU’s fundamental goal is to increase student interest in pursuing graduate studies and a career in research, and works to provide them with the experience and training needed to improve the likelihood of their success.
+
+Mapping Freedom is jointly funded by Research Experiences for Undergraduates Sites, the Established Program to Stimulate Competitive Research (EPSCoR), and Human-Centered Computing.
